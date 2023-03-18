@@ -1,0 +1,33 @@
+.title {
+    font-size: 50px;
+    line-height: 50px;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 10px;
+    color: white;
+    margin-top: 10px;
+    }
+
+.title2 {
+    font-size: 17px;
+    line-height: 30px;
+    font-family: 'Prompt', sans-serif;
+    color: black;
+    margin-top: 10px;
+    }
+
+.title3 {
+    font-size: 17px;
+    line-height: 30px;
+    font-family: 'Cambay', sans-serif;
+    color: black;
+    margin-top: 10px;
+    }
+
+.contact {
+    font-size: 30px;
+    line-height: 30px;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 10px;
+    color: white;
+    margin-top: 10px;
+    }
